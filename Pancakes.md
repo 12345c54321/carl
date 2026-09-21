@@ -1,4 +1,4 @@
-**Fluffy American Pancakes**
+# H1 **Fluffy American Pancakes**
 Prep time: 10 minutes
 
 Cook time: 15 minutes
