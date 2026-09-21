@@ -1,9 +1,9 @@
 # **Fluffy American Pancakes**
-## **Prep time: 10 minutes
+## **Prep time: 10 minutes**
 
-Cook time: 15 minutes
+## Cook time: 15 minutes
 
-Servings: 4 (makes about 8–10 pancakes)**
+## Servings: 4 (makes about 8–10 pancakes)
 
 Ingredients
 1 ½ cups all-purpose flour
