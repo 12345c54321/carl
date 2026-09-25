@@ -1,0 +1,7 @@
+name= input( "Whats your name")
+if name == " Alex" : print ("du knecht" )
+else:  print( "hallo"+name)
+age= input("AGE?")
+print(name +" is "+ age + " years old")
+pushups = random.randit(1,100)
+print(pushups)
